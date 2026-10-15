@@ -45,6 +45,7 @@ Install the following before running the project:
 
 Replace the placeholder URL with your actual public GitHub repository URL.
 
+
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 cd cineverse-movie-discovery
